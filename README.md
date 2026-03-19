@@ -1,5 +1,3 @@
-# Loan_Approval_Prediction
-A Machine learning project to predict loan approval using Random Forest.
 # Loan Approval Prediction
 
 **Objective:** Predict whether a loan will be approved based on applicant information.
